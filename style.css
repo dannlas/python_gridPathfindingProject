@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    width: 20rem;
+    height: 17rem;
+    background: orange;
+}
+
+#outputDrawDiv {
+    min-width: 1500px;
+    float: left;
+    min-height: 1000px;
+    top: 22px;
+    position: absolute;
+
+    /*background-color: black;*/
+    /* opacity: 0.5; */
+    pointer-events: none;
+    line-height: 0px;
+
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+#outputDrawDiv img{
+    visibility: visible;
+}
+
+.cellIntersection{
+    width: 50px;
+    height: 50px;
+    margin: 0px; /*12.5px; */
+}
+
+.intersectionDiagonal1{
+    position: inherit;
+}
