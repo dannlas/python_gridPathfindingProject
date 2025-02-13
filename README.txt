@@ -1,6 +1,6 @@
 Grid generation, modification implementation and path finding algorithm integration for a web application, using Python via PyScript
 
-This project requires a local PyScript library to run. You can download a copy of it from 
+This project requires a local PyScript library to run. You can download a copy of it from https://github.com/PFython/pyscript-local-runtime
 You will also require VS Code and need to install Live Server and Python plugins if you have not yet already
 And anything else to run python on your local machine
 
